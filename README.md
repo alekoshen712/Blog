@@ -6,7 +6,6 @@
 #### [Vue.js 框架的优势与缺陷](https://github.com/alekoshen712/Blog/issues/4)
 
 ### 杂项
-#### [前端安全相关](https://github.com/alekoshen712/FE-Safety/blob/master/README.md)
 #### [一次折腾后的收获-ts编译和webpack编译的一点不同](https://github.com/alekoshen712/Blog/issues/10)
 #### [重绘与回流的优化方法](https://github.com/alekoshen712/Blog/issues/11)
 
